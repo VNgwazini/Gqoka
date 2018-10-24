@@ -5,7 +5,7 @@ Weather Based Clothing Suggestions
 
 The overall goals of this project are to:
 
-Call weather data from multiple API’s.
-Associate the users clothing options with certain weather patterns.
-Suggest user clothing and accessories based on weather-based averages.
-Warn users to prepare for weather: (i.e. “You will need an umbrella today.”
+1. Call weather data from multiple API’s.
+2. Associate the users clothing options with certain weather patterns.
+3. Suggest user clothing and accessories based on weather-based averages.
+4. Warn users to prepare for weather: (i.e. “You will need an umbrella today.”
