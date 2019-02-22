@@ -1,6 +1,8 @@
 # Gqoka
 
-(Development will resume August 2018)
+Restarted from scatch
+
+(Development will resume April 2019)
 
 Weather Based Clothing Suggestions
 
