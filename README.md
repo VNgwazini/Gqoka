@@ -1,6 +1,6 @@
 # Gqoka
 
-Restarted from scatch
+Restarted from scratch
 
 (Development will resume April 2019)
 
